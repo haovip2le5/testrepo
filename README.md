@@ -1,7 +1,5 @@
 # testrepo
 
-## Gì là gì? (What is What?)
-
 This is a test repository for learning and experimentation purposes.
 
 ## Repository Contents
